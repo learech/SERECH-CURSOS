@@ -14,8 +14,8 @@ export const NavBar = () => {
             <NavLink className="nav-link active" to="/">
               SERECH-CURSOS ONLINE
             </NavLink>
-            <NavLink className="nav-link" to="/categoria/cursos">
-              Cursos
+            <NavLink className="nav-link" to="/categoria/actuales">
+              Cursos Actuales
             </NavLink>
             <NavLink className="nav-link" to="/categoria/proximos">
               Próximos Cursos
