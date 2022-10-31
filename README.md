@@ -1,3 +1,26 @@
+# E-commerce Mugler Store
+
+## Datos
+- Curso: React.js Coderhouse 2022
+- Comisión: 38115
+- Docente: Joshua Cruz
+- Alumno: Leandro Rech
+- Deploy Proyecto final: https://lovely-entremet-ca6479.netlify.app/
+
+## Acerca del Proyecto
+Es un proyecto sobre unos supuestos cursos online con un diseño básico, con simulación de compra y carrito.
+
+## Tecnologías
+- HTML5
+- CSS
+- JavaScript
+- React.js
+- Bootstrap
+- Firebase
+- Git
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
