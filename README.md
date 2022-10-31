@@ -1,4 +1,4 @@
-# E-commerce Mugler Store
+# E-commerce SERECH
 
 ## Datos
 - Curso: React.js Coderhouse 2022
