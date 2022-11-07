@@ -5,7 +5,7 @@
 - Comisión: 38115
 - Docente: Joshua Cruz
 - Alumno: Leandro Rech
-- Deploy Proyecto final: https://lovely-entremet-ca6479.netlify.app/
+
 
 ## Acerca del Proyecto
 Es un proyecto sobre unos supuestos cursos online con un diseño básico, con simulación de compra y carrito.
