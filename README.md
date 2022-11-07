@@ -1,4 +1,5 @@
 # E-commerce SERECH
+![Animation](https://user-images.githubusercontent.com/102853675/200206934-fee9a88b-ecca-481f-8c90-2d389912d268.gif)
 
 ## Datos
 - Curso: React.js Coderhouse 2022
