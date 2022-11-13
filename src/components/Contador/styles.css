@@ -1,0 +1,37 @@
+.spanDetalle {
+    color: black;
+    font-size: 1rem; 
+    margin-bottom: 5px;
+}
+
+.acomodadoContador {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.contador {
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+    border: 1px solid #FFC800;
+    
+    padding: 5px;
+    
+    background-color: #FFC800;
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 50px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.spanTotal {
+    color: #FFC800;
+}
+.precio {
+    margin: 30px;
+}

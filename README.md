@@ -18,6 +18,7 @@ Es un proyecto sobre unos supuestos cursos online con un diseño básico, con si
 - Bootstrap
 - Firebase
 - Git
+- Toastify-react
 
 
 

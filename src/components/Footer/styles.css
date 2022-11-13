@@ -1,0 +1,54 @@
+.logoFooter {
+    width: 30px;
+    margin: 10px;
+}
+.logoFooter:hover {
+    transform: scale(1.2);
+    transition: 1.3s;
+}
+.textoFooter {
+    color: black;
+}
+.flexFooter {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+.tamañoLogo {
+    width: 30px;
+    margin: 10px;
+}
+.tamañoLogo:hover{
+    transform: scale(1.2);
+    transition: 1.3s;
+}
+.flexRedes{
+    display: flex;
+    flex-direction: column;
+}
+.flexPadre {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 100px;
+    background-color: rgb(130, 119, 228);
+}
+.copyrigth {
+    color: black;
+    font-weight: bold;
+}
+iframe {
+    border-radius: 30px;
+    border: 2px solid black;
+}
+.flexParrafo{
+    display: flex;
+    flex-direction: row;
+}
+@media screen and (max-width: 480px){
+    .flexPadre {
+        flex-direction: column;
+    }
+}

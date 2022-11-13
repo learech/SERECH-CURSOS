@@ -1,0 +1,12 @@
+.flecha {
+    position: fixed;
+    background-color: transparent;
+    border: transparent;
+    left: 50%;
+    bottom: 40px;
+    height: 20px;
+    font-size: 3rem;
+    z-index: 1;
+    cursor: pointer;
+    color: #FFC800;
+}

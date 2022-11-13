@@ -1,0 +1,64 @@
+
+h1 {
+    font-size: 1.5rem;
+    color: black;
+    text-align: center;
+    margin-top: 40px;
+}
+h3 {
+    font-size: 1rem;
+    color: black;
+    text-align: center;
+    margin-top: 40px;
+}
+.textoInicioUno{
+    color: black;
+    font-style: italic;
+    width: 80%;
+    margin-left: 50px;
+}
+.textoInicioDos{
+    color: black;
+    font-style: italic;
+    width: 80%;
+    margin-left: 100px;
+}
+.flexizado{
+    display: flex;
+    align-items: center;
+}
+.textFlex {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+.textoReducido {
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+}
+.imagenInicio {
+    width: 500px;
+}
+@media screen and (max-width: 480px){
+    .textFlex {
+        flex-direction: column;
+    }
+    .textFlex{
+        margin-top: 30px;
+    }
+    .textoReducido{
+        flex-direction: column;
+    }
+    .imagenInicio{
+        width: 100%;
+    }
+    .textoInicioDos, .textoInicioUno{
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

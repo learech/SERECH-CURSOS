@@ -1,0 +1,88 @@
+.detatalleCarrito {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: white;
+    width: 400px;
+}
+.ordenTienda{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.nombre,h3 {
+    color: black;
+}
+.imgCarrito {
+    margin-top: 20px;
+}
+.linkVolver {
+    display: flex;
+    justify-content: center;
+    color: #d43e24;
+    font-weight: bold;
+    font-size: larger;
+}
+.botonVaciar {
+    width: 150px;
+    height: 30px;
+    margin: 20px;
+    border: 1px solid #FFC800;
+    
+    padding: 5px;
+    
+    background-color: #FFC800;
+    
+    color: #ffffff;
+    
+    text-decoration: none;
+    
+    text-transform: uppercase;
+
+    border-radius: 50px;
+    text-align: center;
+    margin-top: 10px;
+}
+.marco {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.formFlex{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+    background-color: #FFC800;
+    border-radius: 20px;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+.fleInputs {
+    width: 200px;
+    height: 50px;
+    padding: 20px;
+}
+.input {
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+    border: none;
+    padding: 7px;
+    cursor: pointer;
+}
+@media screen and (max-width: 480px){
+    .detatalleCarrito {
+        width: 300px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 30px;
+    }
+    .ordenTienda{
+        flex-direction: column;
+    }
+}

@@ -1,0 +1,15 @@
+.carrito {
+    color:#e0c972;
+    width: 50px;
+    height: 20px;
+}
+
+.spanCarrito {
+    color: #e0c972;
+    position: relative;
+    top: -15px;
+    left: -15px;
+    background-color: red;
+    border-radius: 10px; 
+    padding: 3px;
+}
